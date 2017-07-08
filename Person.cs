@@ -4,4 +4,6 @@ plubic class Person{
 
 	public Walk(){
 	}
+	public void Run(){
+	}
 }
